@@ -129,3 +129,4 @@ AI tools were used responsibly during the development of this project to assist 
 
 ### Reflection on AI Usage
 Using AI significantly improved my development speed and helped me understand best practices while building a full-stack application. AI acted as a support tool for learning and debugging, but all architectural decisions, final implementations, and testing strategies were made and verified by me.
+
