@@ -1,0 +1,5 @@
+node_modules/
+incubyte/backend/node_modules/
+incubyte/frontend/node_modules/
+.env
+*.log
